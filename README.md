@@ -1,3 +1,19 @@
+# PCSX3
+
+PCSX3 is a PlayStation 3 emulator project based on RPCS3.
+
+PCSX3 is a fork of RPCS3 focused on extending PlayStation 3 emulation
+and preservation support for retail, prototype, beta, demo, E3, QA,
+debug, DevKit, kiosk and other PlayStation 3 software builds.
+
+The project retains the applicable copyright notices, licenses and
+attributions from RPCS3 and its third-party components.
+
+## Project Status
+
+PCSX3 is currently under development.
+
+---
 RPCS3
 =====
 
